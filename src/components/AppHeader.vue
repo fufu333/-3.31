@@ -77,11 +77,5 @@ button {
     cursor: pointer;   
 }
 
-.todo-list-items {  
-    height: 300px;
-    overflow-y: auto;  
-    padding: 0;  
-    margin: 0;  
-    list-style-type: none;  
-  }
+
 </style>
